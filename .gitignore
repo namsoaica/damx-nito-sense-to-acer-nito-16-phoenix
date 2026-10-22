@@ -1,0 +1,9 @@
+# Kernel build objects
+*.o
+*.ko
+*.mod
+*.mod.*
+Module.symvers
+modules.order
+.*.cmd
+.tmp_versions/

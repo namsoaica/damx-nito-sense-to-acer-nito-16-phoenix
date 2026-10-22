@@ -1,0 +1,18 @@
+DAMX Release Information
+========================
+
+Project Version: 1.0.2
+Daemon Version: 0.5.2
+Drivers Version: 25.701
+
+Build Date: Thu Jul 23 08:09:03 UTC 2026
+Built on: Linux runnervm3jd5f 6.17.0-1020-azure #20~24.04.1-Ubuntu SMP Fri Jun 19 20:09:14 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+GitHub Run: 17
+Commit: 1f88341d433ed8481a5f98b9ac45b1049b485267
+
+Components:
+- DAMX-Daemon: Python daemon compiled with PyInstaller
+- DAMX-GUI: .NET 9.0 GUI application (self-contained)
+- Linuwu-Sense: Hardware drivers
+- setup.sh: Installation script
+- nitro-key-detection.sh: Nitro key detection helper script
